@@ -1,0 +1,24 @@
+{
+  "name": "express-todolist",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/HamzaNasir0/express-TodoList#readme",
+  "bugs": {
+    "url": "https://github.com/HamzaNasir0/express-TodoList/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamzaNasir0/express-TodoList.git"
+  },
+  "license": "ISC",
+  "author": "Hamza",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
